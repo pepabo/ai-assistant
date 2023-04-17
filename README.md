@@ -8,7 +8,7 @@ Interact with GPT-4 in a chat format in a browser.
 
 ## Build & Run locally
 
-```
+```sh
 docker build \
     --build-arg IMAGE_VERSION='1.0.0' \
     --build-arg SERVER_ADDRESS='localhost' \
