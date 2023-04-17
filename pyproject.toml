@@ -2,7 +2,10 @@
 name = "ai-assistant"
 version = "0.1.0"
 description = "Interact with GPT-4 in a chat format in a browser."
-authors = ["zaimy <zaitsu@pepabo.com>"]
+authors = [
+    "antipop <antipop@pepabo.com>",
+    "data-team <data-team@ml.pepabo.com>"
+]
 license = "MIT"
 readme = "README.md"
 
